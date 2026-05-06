@@ -1,10 +1,12 @@
 # DATABASE-EMPLOYMENT-MANAGEMENT-SYSTEM
 HOTEL DBM
 EMPLOYMENT MANAGEMENT SYSTEM FOR HOTEL – DBMS PROJECT REPORT
+
 1.EXECUTIVE SUMMARY
 This project presents the design and implementation of an Employment Management System for a Hotel using a relational database approach. The system is developed to efficiently manage employee-related information such as departments, job roles, attendance, and payroll.
 The primary goal of this system is to replace manual record-keeping with a structured database that ensures data accuracy, consistency, and quick retrieval. The system supports key operations such as storing employee details, tracking attendance, managing salaries, and generating reports.
 Using MySQL within XAMPP, the system was implemented with properly normalized tables, relationships, and constraints to ensure data integrity. The project demonstrates how database systems can improve organizational efficiency, reduce redundancy, and support decision-making.
+
 2.BUSINESS CASE
  Application Domain
 The system is designed for the hotel management sector, specifically focusing on employee management. It supports the following operations:
@@ -56,7 +58,9 @@ No web interface (console-based system)
 Limited scalability for very large hotels
 No real-time analytics
 Does not handle advanced HR features
+
 . SYSTEM DESIGN
+
 3.1 Logical Design (E-R Modeling)
 The database follows a relational model where data is segmented into specialized entities to minimize duplication.
 Entities and Attributes
@@ -116,6 +120,7 @@ Database System Concepts
 MySQL Documentation
 Lecture Notes
 Online tutorials and references
+
 
 CONCLUSION
 The Employment Management System successfully demonstrates how database systems can be used to manage employee data efficiently. By using structured tables, relationships, and SQL queries, the system ensures accuracy, consistency, and fast data retrieval.
